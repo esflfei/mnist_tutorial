@@ -22,3 +22,17 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Homework
+Using Pytorch as framework:
+Q1 Training accuracy: 97.32%
+   Testing accuracy: 88.40%
+Q2 Training accuracy: 81.57%
+   Testing accuracy: 82.20%
+Q3 Training accuracy: 98.00%
+   Testing accuracy: 86.70%
+Q4 Training accuracy: 92.82%
+   Testing accuracy: 90.50%
+Q5 Training accuracy: 97.58%
+   Testing accuracy: 97.78%
+   
